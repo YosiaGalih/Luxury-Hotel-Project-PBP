@@ -34,8 +34,8 @@ public class DaftarPemesan extends AppCompatActivity {
             startActivity(new Intent(this, Location.class));
         }else if(item.getItemId()==R.id.About){
             startActivity(new Intent(this, About.class));
-        }else if(item.getItemId()==R.id.Camera){
-            startActivity(new Intent(this, Camera.class));
+        }else if(item.getItemId()==R.id.Profile){
+            startActivity(new Intent(this, Profile.class));
         }
 
         return true;

@@ -12,7 +12,7 @@ public class DaftarAbout {
         ABOUTS.add(KEVIN);
     }
 
-    public static final Abouts DANU = new Abouts("Putu Danu Wijaya", "180709770", "Fakultas Teknologi Industri",
+    public static final Abouts DANU = new Abouts("Putu Danuhadi Wijaya", "180709770", "Fakultas Teknologi Industri",
             "Informatika", "082240441272", "https://sa1s3optim.patientpop.com/assets/images/provider/photos/1888657.jpg");
 
     public static final Abouts YOSIA = new Abouts("Yosia Galih Yudhistira", "180709971", "Fakultas Teknologi Industri",

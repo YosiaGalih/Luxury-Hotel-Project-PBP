@@ -24,8 +24,8 @@
         app:showAsAction="never"/>
 
     <item
-        android:id="@+id/Camera"
-        android:title="Camera"
+        android:id="@+id/Profile"
+        android:title="Profile"
         app:showAsAction="never"/>
 
 </menu>
